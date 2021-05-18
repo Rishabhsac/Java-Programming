@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=part2
+comment1.params=dna
+comment1.target=double\ cgRatio(java.lang.String)
+comment2.params=dna
+comment2.target=int\ countCTG(java.lang.String)
+comment3.params=dna
+comment3.target=void\ testcgRatiocountCTG(java.lang.String)
+numComments=4
